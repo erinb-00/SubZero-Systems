@@ -1,5 +1,7 @@
 # ❄️ ENGS 90: SubZero Systems
 
+## Team 741
+
 ## 📌 Overview  
 This project consists of a **frontend** (React) and a **backend** (Flask) running in Docker containers. You can run both services together using Docker Compose or start only the frontend for development.
 
