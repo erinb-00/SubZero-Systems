@@ -1,4 +1,4 @@
-# ❄️ ENGS 90: SubZero Systems
+# ❄️ ENGS 89/90: SubZero Systems
 
 ## Team 741
 
